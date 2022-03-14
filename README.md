@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sirlupinwatson1&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sirlupinwatson&show_icons=true&theme=radical)
 
 
 - 🔭 I’m currently working on building a Machine Learning model to prevent adversarial behavior and Fraud at scale
