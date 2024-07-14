@@ -12,7 +12,7 @@
 - ⚡ Fun fact: Coding is fun!
 
 
-I listed interesting publication I made in the past and if you work in data analysic, data science or any motivation around cyber defense or sybil hunting, these might be valuable for you:
+I listed interesting publication I made in the past and if you work with data, data science or have any motivation around cyber defense or sybil hunting, these might be valuable for you:
 
 -  [Gitcoin data analysis grants rounds 14 with ASOP](https://hackmd.io/UOlkSVK0QMSEsKEB3fUFjQ?view)
 -  [Gitoin data analysis rounds 20](https://github.com/sirlupinwatson/GG20xOSO)
