@@ -1,7 +1,33 @@
 
-
-
-
+```mermaid
+flowchart TD
+    A[Get Location] -->|Get money-To-Fly| B(Go To Location)
+    B --> C{Destination
+    Studio X}
+    C -->|One| D[Laptop → ok]
+    C -->|Two| E[iPhone → android ? ok]
+    C -->|Three| F[fa:fa-car Car → Scooter]
+     -->|Party| G[Go]
+  
+```
+```topojson
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.136051,
+          47.641010
+        ]
+      },
+      "properties": {}
+    }
+  ]
+}
+```
 
 ### Hi there 👋
 
